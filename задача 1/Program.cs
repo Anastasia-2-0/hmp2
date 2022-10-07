@@ -15,4 +15,4 @@ else
 {
     Console.WriteLine("error");
 }
-Console.WriteLine($"Вторая цифра числа{num} равна {num2}");
+Console.WriteLine($"Вторая цифра числа {num} равна {num2}");
